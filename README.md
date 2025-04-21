@@ -50,3 +50,11 @@ An AI-powered movie search app that understands natural language queries like "m
 4. Run the development server:
     ```bash
     npm start
+
+
+## Future Imporvements
+
+- Add user accounts to save favorites.
+- Include streaming availability information.
+- Add trailer previews.
+- Implement "similar to this movie" feature.
